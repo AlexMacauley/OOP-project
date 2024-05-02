@@ -1,0 +1,21 @@
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.AssemblyInfoInputs.cache
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.AssemblyInfo.cs
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.csproj.CoreCompileInputs.cache
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\bin\Debug\net6.0\Lego OOP project.exe
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\bin\Debug\net6.0\Lego OOP project.deps.json
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\bin\Debug\net6.0\Lego OOP project.runtimeconfig.json
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\bin\Debug\net6.0\Lego OOP project.dll
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\bin\Debug\net6.0\Lego OOP project.pdb
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.dll
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\refint\Lego OOP project.dll
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.pdb
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.genruntimeconfig.cache
+C:\Users\AlexMacauley\source\repos\Lego OOP project\Lego OOP project\obj\Debug\net6.0\ref\Lego OOP project.dll
+C:\Users\alexmacauley\Desktop\Alex Macauley\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexmacauley\Desktop\Alex Macauley\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.AssemblyInfoInputs.cache
+C:\Users\alexmacauley\Desktop\Alex Macauley\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.AssemblyInfo.cs
+C:\Users\alexmacauley\Desktop\Alex Macauley\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.csproj.CoreCompileInputs.cache
+C:\Users\alexmacauley\Desktop\Alex Macauley\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.dll
+C:\Users\alexmacauley\Desktop\Alex Macauley\Lego OOP project\Lego OOP project\obj\Debug\net6.0\refint\Lego OOP project.dll
+C:\Users\alexmacauley\Desktop\Alex Macauley\Lego OOP project\Lego OOP project\obj\Debug\net6.0\Lego OOP project.pdb

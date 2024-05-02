@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lego OOP project/1.0.0": {
+        "runtime": {
+          "Lego OOP project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lego OOP project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
